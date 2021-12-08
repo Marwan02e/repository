@@ -19,6 +19,7 @@ namespace repos
             Console.WriteLine("Nilai x = {0}", x += y);
             Console.WriteLine("Nilai x = {0}", x -= y);
             Console.WriteLine("Nilai x = {0}", x *= y);
+            Console.WriteLine("Nilai x = {0}", x /= y);
             Console.ReadKey();
         }
     }
