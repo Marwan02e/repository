@@ -18,7 +18,7 @@ namespace repos
             y = 5;
             Console.WriteLine("Nilai x = {0}", x += y);
             Console.WriteLine("Nilai x = {0}", x -= y);
-
+            Console.WriteLine("Nilai x = {0}", x *= y);
             Console.ReadKey();
         }
     }
